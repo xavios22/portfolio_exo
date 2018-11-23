@@ -1,6 +1,11 @@
 header{
     background-color: #333;
 }
+#img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
 ul {
     list-style-type: none;
     overflow: hidden;
@@ -24,5 +29,60 @@ li a:hover{
 
 /* parte principal */
 
+
+
+
+
+/*parte dos*/
+.aboutme{
+    background-color: #333;
+}
+.row h3{
+    color:  rgba(238, 178, 13, 0.822);
+}
+.row p {
+    color: rgba(255, 255, 255, 0.664);
+}
+.button1{
+    background-color: rgba(238, 178, 13, 0.822);
+    border: none;
+    color: rgba(255, 255, 255, 0.664);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+    
+}
+.button2{
+    background-color: #333;
+    border: 1px solid  rgba(238, 178, 13, 0.822);
+    color: rgba(255, 255, 255, 0.664);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
+   
+}
+
+/*parte 3 */
+
+.container-2 h2{
+    color: rgba(238, 178, 13, 0.822);
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+#logo1{
+    color: rgba(238, 178, 13, 0.822);
+}
 
 
